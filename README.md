@@ -1,4 +1,3 @@
-# Royal
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -6,7 +5,7 @@
         <title>OLAJIDE Portfolio</title>
     </head>
     <body>
-        <h1>Olajide's Portfolio</h1>
+        <h1>New project</h1>
         <h2>Begining of my progress as a Web Developer<h2>
         <h3><a href="./public/birthday-invite.html">Birthday invite</a></h3> 
         <img src="./assets/images/Birthday invite real.PNG" alt="the details of the birhday"/>
